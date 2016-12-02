@@ -1,0 +1,7 @@
+[
+	{ "keys": ["super+shift+r"], "command": "duplicate_line" },
+	{ "keys": ["super+d"], "command": "run_macro_file", "args": {"file": "res://Packages/Default/Delete Line.sublime-macro"} },
+	{ "keys": ["alt+/"], "command": "auto_complete" },
+	{ "keys": ["super+;"], "command": "reindent" },
+	{ "keys": ["super+shift+c"], "command": "css_comb" }
+]

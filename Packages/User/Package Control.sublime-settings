@@ -1,0 +1,46 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"1337 Color Scheme",
+		"AngularJS",
+		"AngularJS Snippets",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"CSS Extended Completions",
+		"CSS3",
+		"CSScomb",
+		"Ecmascript Syntax",
+		"Emmet",
+		"ES6-Toolkit",
+		"Git",
+		"HTML-CSS-JS Prettify",
+		"HTML5",
+		"HTMLAttributes",
+		"HTMLBeautify",
+		"JavaScript Completions",
+		"JavaScriptNext - ES6 Syntax",
+		"jQuery",
+		"JS Snippets",
+		"JSX",
+		"LESS",
+		"LESS-build",
+		"Nodejs",
+		"Package Control",
+		"React and React Router Snippets",
+		"React Development Snippets",
+		"React ES6 Snippets",
+		"React Templates",
+		"ReactJS",
+		"ReactJS Snippets",
+		"Sass",
+		"SASS Build",
+		"SASS Snippets",
+		"SassBeautify",
+		"Seti_UI",
+		"TernJS"
+	]
+}
